@@ -1,7 +1,3 @@
-
-
-
-
 import keyboard
 import time
 
