@@ -1,5 +1,6 @@
 import keyboard
 import time
+
 class HelloWold:
     def __init__(self):
        self.status = False
@@ -18,5 +19,6 @@ class HelloWold:
                 continue
             else:
                 continue
+
 helloworld = HelloWold()
 helloworld.run()
